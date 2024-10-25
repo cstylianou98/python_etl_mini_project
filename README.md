@@ -37,3 +37,9 @@ This ETL pipeline can be extended to process data for other locations and date r
     FROM daily_data
     WHERE date BETWEEN '1999-01-01' AND '1999-12-31'
 
+### Future Work:
+
+- **Expand Data Sources**: Integrate additional weather APIs for more comprehensive data coverage.
+- **Add More Visualizations**: Create more complex visualizations to analyze weather patterns over time.
+- **Enhance Query Capabilities**: Develop a user interface or command-line tool for users to easily create custom queries against the database.
+
